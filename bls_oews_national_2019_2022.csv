@@ -1,0 +1,45 @@
+year,occ_code,occ_title,tot_emp,a_mean,source
+2019,00-0000,All Occupations,146875480,53490,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-0000,Computer and Mathematical Occupations,4552880,93760,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,11-3021,Computer and Information Systems Managers,433960,156390,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-1211,Computer Systems Analysts,589060,96160,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-1212,Information Security Analysts,125570,104210,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-1221,Computer and Information Research Scientists,30780,127460,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1406870,111620,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-2031,Operations Research Analysts,99680,90600,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-2041,Statisticians,39090,95680,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2019,15-2098,Data Scientists and Mathematical Science Occupations All Other,30810,100560,https://www.bls.gov/oes/2019/may/oes_nat.htm
+2020,00-0000,All Occupations,139099570,56310,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-0000,Computer and Mathematical Occupations,4587700,96770,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,11-3021,Computer and Information Systems Managers,457290,161730,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-1211,Computer Systems Analysts,574450,99020,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-1212,Information Security Analysts,138000,107580,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-1221,Computer and Information Research Scientists,30220,130890,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-1256,Software Developers and Software Quality Assurance Analysts and Testers,1476800,114270,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-2031,Operations Research Analysts,96220,92280,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-2041,Statisticians,38860,97170,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2020,15-2098,Data Scientists and Mathematical Science Occupations All Other,59680,103930,https://www.bls.gov/oes/2020/may/oes_nat.htm
+2021,00-0000,All Occupations,140886310,58260,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-0000,Computer and Mathematical Occupations,4654750,99860,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,11-3021,Computer and Information Systems Managers,485190,162930,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-1211,Computer Systems Analysts,505150,102210,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-1212,Information Security Analysts,157220,113270,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-1221,Computer and Information Research Scientists,30840,142650,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-1252,Software Developers,1364180,120990,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-1253,Software Quality Assurance Analysts and Testers,190120,97710,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-2031,Operations Research Analysts,98700,95830,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-2041,Statisticians,31370,99450,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-2051,Data Scientists,105980,108660,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2021,15-2099,Mathematical Science Occupations All Other,3970,77960,https://www.bls.gov/oes/2021/may/oes_nat.htm
+2022,00-0000,All Occupations,147886000,61900,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-0000,Computer and Mathematical Occupations,5003910,108130,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,11-3021,Computer and Information Systems Managers,533220,173670,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-1211,Computer Systems Analysts,505210,107530,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-1212,Information Security Analysts,163690,119860,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-1221,Computer and Information Research Scientists,33780,155880,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-1252,Software Developers,1534790,132930,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-1253,Software Quality Assurance Analysts and Testers,196420,105750,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-2031,Operations Research Analysts,105080,95820,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-2041,Statisticians,30780,105510,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-2051,Data Scientists,159630,115240,https://www.bls.gov/oes/2022/may/oes_nat.htm
+2022,15-2099,Mathematical Science Occupations All Other,3840,82160,https://www.bls.gov/oes/2022/may/oes_nat.htm
